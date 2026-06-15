@@ -1,11 +1,3 @@
-LETS CONNECT ON LINKEDIN : https://www.linkedin.com/in/dhackmt/
-
-
-Project GitHub Repository link: https://github.com/d-hackmt/ecomerce-pydantic-ai
-
-
-Pydantic AI basics repo : https://github.com/d-hackmt/pydantic-ai-crash-course
-
 
 DOCKER COMMANDS : 
 
